@@ -13,7 +13,7 @@
     <!-- CSFR token for ajax call -->
     <meta name="_token" content="{{ csrf_token() }}"/>
 
-    <title>Manage Posts</title>
+    <title>Manage Posts Ajax</title>
     
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
